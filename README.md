@@ -24,5 +24,7 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ashutoshvm) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/AshutoshVM) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ashutoshvm) 
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ashutoshvm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashutoshvm" /></a></p><br><br>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
