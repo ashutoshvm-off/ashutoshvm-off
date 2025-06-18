@@ -26,6 +26,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ashutoshvm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashutoshvm" /></a></p><br><br>
-<p><a href="[https://paypal.me/paypal.me/AshutoshVM]"> <img align="left" src="https://cdn.paypal.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashutoshvm" /></a></p><br><br>
+<p><a href="[https://paypal.me/paypal.me/AshutoshVM]"> <img align="left" src="[https://cdn.paypal.com/buttons/v2/default-yellow.png](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)" height="50" width="210" alt="ashutoshvm" /></a></p><br><br>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
