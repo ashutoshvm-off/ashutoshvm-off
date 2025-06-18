@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Updating my skills<br><br>🌱 I’m currently learning AI, Ml and impact in the society<br><br>📝 I regularly write articles on https://medium.com/@ashutoshvmoff<br><br>💬 Ask me about Technology<br><br>📫 How to reach me ashutoshvmoff@gmail.com<br><br>⚡ Fun fact I think i am crazy of dev
+<h1 align="center">Hi 👋, I'm Ashutosh V M</h1>
+<h3 align="center">A passionate student developer and researcher from India</h3>
 
 
 ## 🌐 Socials:
