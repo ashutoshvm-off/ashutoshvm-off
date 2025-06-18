@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh V M</h1>
 <h3 align="center">A passionate student developer and researcher from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshvm-off&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshvm-off" /> </p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashutoshvm-off&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
